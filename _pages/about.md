@@ -15,6 +15,8 @@ Hi, I’m **Mehdi Arjmand**, but I go by **Armin**. I’m a third-year Ph.D. stu
 
 My research focuses on **conversational agents**, **multimodal interaction**, and **affective computing**. Currently, I’m developing AI agents that leverage large language models (LLMs) and multimodal interaction techniques to provide empathy and achieve conversational grounding, particularly in health-related contexts such as symptom reporting and motivational interviewing. My work is dedicated to advancing human-computer interaction (HCI) by creating agents that are emotionally intelligent and capable of meaningful communication, while fostering trust to enhance the effectiveness and reliability of these interactions.
 
+Full **CV** available upon request.
+
 News
 ======
 
