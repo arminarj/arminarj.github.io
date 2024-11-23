@@ -14,8 +14,6 @@ Education
 * Ph.D. in Computer Science  
   Khoury College of Computer Science - Northeastern University, Boston, MA  
   *Sep. 2022 - Present*  
-  * Focused on Human-Computer Interaction (HCI), Conversational Agents, Multimodal Interaction, and Affective Computing.  
-  * Advisor: Timothy Bickmore.  
 
 * M.S. in Computer Science  
   Khoury College of Computer Science - Northeastern University, Boston, MA  
@@ -24,7 +22,7 @@ Education
 * B.Sc. in Electrical Engineering  
   School of ECE - University of Tehran, Tehran, Iran  
   *Sep. 2016 - Sep. 2021*  
-  * Final Thesis: Multimodal Language Analysis using self-supervised learning (SSL) and Transformer-based methods.  
+
 
 Work Experience
 ======
