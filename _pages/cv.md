@@ -11,54 +11,71 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D. in Computer Science  
+  Khoury College of Computer Science - Northeastern University, Boston, MA  
+  *Sep. 2022 - Present*  
+  * Focused on Human-Computer Interaction (HCI), Conversational Agents, Multimodal Interaction, and Affective Computing.  
+  * Advisor: Timothy Bickmore.  
 
-Work experience
+* M.S. in Computer Science  
+  Khoury College of Computer Science - Northeastern University, Boston, MA  
+  *Nov. 2023*
+
+* B.Sc. in Electrical Engineering  
+  School of ECE - University of Tehran, Tehran, Iran  
+  *Sep. 2016 - Sep. 2021*  
+  * Final Thesis: Multimodal Language Analysis using self-supervised learning (SSL) and Transformer-based methods.  
+
+Work Experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Doctoral Research  
+  Relational Agent Group (RAG), Northeastern University, Boston, MA  
+  *Sep. 2022 - Present*  
+  * Researching human-agent interactions, healthcare interventions, and multimodal interaction with conversational agents.  
+  * Advisor: Timothy Bickmore.  
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Research Intern  
+  Affective Computing Lab, USC Institute for Creative Technologies (ICT), Los Angeles, CA  
+  *Jun. 2023 - Apr. 2023*  
+  * Collaborated with Sony Entertainment R&D on designing persuasive conversational agents for gaming scenarios.  
+  * Advisor: Gale Lucas.  
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
+* Undergraduate Research Assistant  
+  Advanced Robotics and Intelligent Systems, University of Tehran, Tehran, Iran  
+  *Sep. 2019 - Jan. 2022*  
+  * Developed multimodal sentiment analysis and advanced Canonical Correlation Analysis (CCA) implementations.  
+  * Advisors: H. Moradi, M. Dousti.  
+
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* **Machine Learning Toolkits**: PyTorch, HuggingFace, TensorBoard, scikit-learn, Keras, Prompt Engineering, CVXPY.  
+* **Empirical Study Design**: Research Design, Hypothesis Testing, Quantitative & Qualitative Analysis, Mixed Methods, Online Crowdsourcing.  
+* **Multimodal Processing Toolkits**: Platform of Situated Intelligence, OpenSense, Multimodal Transformers, OpenFace, OpenSMILE, OpenPose.  
 
 Publications
 ======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
+<ul>{% for post in site.publications reversed %}
+  {% include archive-single-cv.html %}
+{% endfor %}</ul>
+
 Talks
 ======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
+<ul>{% for post in site.talks reversed %}
+  {% include archive-single-talk-cv.html %}
+{% endfor %}</ul>
+
 Teaching
 ======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
+<ul>{% for post in site.teaching reversed %}
+  {% include archive-single-cv.html %}
+{% endfor %}</ul>
+
+Service and Leadership
 ======
-* Currently signed in to 43 different slack teams
+* **Program Committee**:  
+  International Conference on Multimodal Interaction (ICMI-23, ICMI-24),  
+  International Conference on Virtual Agents (IVA-24),  
+  International Conference on Affective Computing & Intelligent Interaction (ACII-24).  
+
+* **Student Volunteer**:  
+  ACII-23, ACII-21.  
