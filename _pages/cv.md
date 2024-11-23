@@ -43,7 +43,7 @@ Work Experience
 * Undergraduate Research Assistant  
   Advanced Robotics and Intelligent Systems, University of Tehran, Tehran, Iran  
   *Sep. 2019 - Jan. 2022*  
-  * Developed multimodal sentiment analysis and advanced Canonical Correlation Analysis (CCA) implementations.  
+  * Multimodal sentiment analysis using SSL methods
   * Advisors: H. Moradi, M. Dousti.  
 
 Skills
@@ -55,18 +55,6 @@ Skills
 Publications
 ======
 <ul>{% for post in site.publications reversed %}
-  {% include archive-single-cv.html %}
-{% endfor %}</ul>
-
-Talks
-======
-<ul>{% for post in site.talks reversed %}
-  {% include archive-single-talk-cv.html %}
-{% endfor %}</ul>
-
-Teaching
-======
-<ul>{% for post in site.teaching reversed %}
   {% include archive-single-cv.html %}
 {% endfor %}</ul>
 
