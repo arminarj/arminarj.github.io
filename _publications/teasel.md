@@ -2,7 +2,7 @@
 title: "Teasel: a transformer-based speech-prefixed language model"
 collection: preprint
 category: conferences
-permalink: /publication/teasel
+permalink: /publications/teasel
 excerpt: ''
 date: 2021-09-01
 venue: 'Arxiv'
