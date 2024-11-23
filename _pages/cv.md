@@ -48,7 +48,7 @@ Skills
 ======
 * **Machine Learning Toolkits**: PyTorch, HuggingFace, TensorBoard, scikit-learn, Keras, Prompt Engineering, CVXPY.  
 * **Empirical Study Design**: Research Design, Hypothesis Testing, Quantitative & Qualitative Analysis, Mixed Methods, Online Crowdsourcing.  
-* **Multimodal Processing Toolkits**: Platform of Situated Intelligence, OpenSense, Multimodal Transformers, OpenFace, OpenSMILE, OpenPose.  
+* **Multimodal Processing Toolkits**: Platform of Situated Intelligence, OpenSense, Multimodal Transformers.  
 
 Publications
 ======
