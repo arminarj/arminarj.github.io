@@ -17,8 +17,9 @@ My research focuses on **conversational agents**, **multimodal interaction**, an
 
 Full **CV** available upon request.
 
-News
-======
+
+
+**News**
 
 * **[Nov 2024]:** I received my **MSc degree** in Computer Science  
   Achieved my MSc degree as a significant milestone within my ongoing Ph.D. program at Northeastern University, reflecting progress in my academic and research journey.
