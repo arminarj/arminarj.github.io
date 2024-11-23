@@ -1,7 +1,7 @@
 ---
 title: "Virtual Agents for Alcohol Use Counseling: Exploring LLM-Powered Motivational Interviewing"
 collection: publications
-category: manuscripts
+category: conference
 permalink: /publication/virtual-agents-alcohol-counseling
 excerpt: 'This work explores the use of virtual agents powered by large language models for motivational interviewing in alcohol use counseling.'
 date: 2024-01-01

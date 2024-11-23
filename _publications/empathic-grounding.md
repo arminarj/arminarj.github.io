@@ -1,7 +1,7 @@
 ---
 title: "Empathic Grounding: Explorations using Multimodal Interaction and Large Language Models with Conversational Agents"
 collection: publications
-category: manuscripts
+category: conferences
 permalink: /publication/empathic-grounding
 excerpt: 'This paper investigates empathic grounding using multimodal interaction and large language models in conversational agents.'
 date: 2024-01-01

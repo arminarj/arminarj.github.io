@@ -1,7 +1,7 @@
 ---
 title: "Towards Automated Pain Assessment using Embodied Conversational Agents"
 collection: publications
-category: manuscripts
+category: conferences
 permalink: /publication/towards-automated-pain-assessment
 excerpt: 'This paper explores the use of Embodied Conversational Agents to automate pain assessment, focusing on multimodal narratives and empathic feedback.'
 date: 2023-01-01

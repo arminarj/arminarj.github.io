@@ -1,7 +1,7 @@
 ---
 title: "Keeping Users Engaged During Repeated Administration of the Same Questionnaire: Using Large Language Models to Reliably Diversify Questions"
 collection: publications
-category: manuscripts
+category: conferences
 permalink: /publication/keeping-users-engaged
 excerpt: 'This study explores using large language models to diversify questions and improve user engagement during repeated questionnaire administration.'
 date: 2023-01-01
