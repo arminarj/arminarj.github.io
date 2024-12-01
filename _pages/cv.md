@@ -50,12 +50,6 @@ Skills
 * **Empirical Study Design**: Research Design, Hypothesis Testing, Quantitative & Qualitative Analysis, Mixed Methods, Online Crowdsourcing.  
 * **Multimodal Processing Toolkits**: Platform of Situated Intelligence, OpenSense, Multimodal Transformers.  
 
-Publications
-======
-<ul>{% for post in site.publications reversed %}
-  {% include archive-single-cv.html %}
-{% endfor %}</ul>
-
 Service and Leadership
 ======
 * **Program Committee**:  

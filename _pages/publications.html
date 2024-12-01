@@ -6,31 +6,83 @@ author_profile: true
 ---
 
 {% if site.author.googlescholar %}
-  <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
+  <div style="font-size: 0.9em; color: #777; margin-bottom: 1.5em;">
+    You can also find my articles on 
+    <a href="{{site.author.googlescholar}}" style="text-decoration: none; color: #336699;">my Google Scholar profile</a>.
+  </div>
 {% endif %}
 
 {% include base_path %}
 
 <!-- New style rendering if publication categories are defined -->
 {% if site.publication_category %}
-  {% for category in site.publication_category  %}
+  {% for category in site.publication_category %}
     {% assign title_shown = false %}
     {% for post in site.publications reversed %}
       {% if post.category != category[0] %}
         {% continue %}
       {% endif %}
       {% unless title_shown %}
-        <h2>{{ category[1].title }}</h2><hr />
+        <h2 style="font-size: 1.5em; margin-top: 1em;">{{ category[1].title }}</h2><hr />
         {% assign title_shown = true %}
       {% endunless %}
-      {% include archive-single.html %}
+      <ul style="list-style-type: none; padding-left: 0; margin-bottom: 1em;">
+        <li style="margin-bottom: 1em;">
+          <!-- Publication Title -->
+          <div style="font-size: 1.2em; font-weight: bold; margin-bottom: 0.2em;">
+            <a href="{{ post.permalink }}" style="text-decoration: none; color: #336699;">
+              {{ post.title }}
+            </a>
+          </div>
+
+          <!-- Publication Venue and Year -->
+          <div style="font-size: 0.9em; color: #555;">
+            Published in {{ post.venue }}, {{ post.date | date: "%Y" }}
+          </div>
+
+          <!-- Authors -->
+          <div style="font-size: 0.9em; color: #777; margin-top: 0.2em;">
+            {{ post.excerpt | replace: '**', '<strong>' | replace: '**', '</strong>' }}
+          </div>
+
+          <!-- Download Paper Link -->
+          {% if post.paperurl %}
+            <div style="font-size: 0.9em; margin-top: 0.5em;">
+              <a href="{{ post.paperurl }}" style="text-decoration: none; color: #336699;">Download Paper</a>
+            </div>
+          {% endif %}
+        </li>
+      </ul>
     {% endfor %}
   {% endfor %}
 {% else %}
-  {% for post in site.publications reversed %}
-    {% include archive-single.html %}
-  {% endfor %}
+  <ul style="list-style-type: none; padding-left: 0; margin-bottom: 1em;">
+    {% for post in site.publications reversed %}
+      <li style="margin-bottom: 1em;">
+        <!-- Publication Title -->
+        <div style="font-size: 1.2em; font-weight: bold; margin-bottom: 0.2em;">
+          <a href="{{ post.permalink }}" style="text-decoration: none; color: #336699;">
+            {{ post.title }}
+          </a>
+        </div>
+
+        <!-- Publication Venue and Year -->
+        <div style="font-size: 0.9em; color: #555;">
+          Published in {{ post.venue }}, {{ post.date | date: "%Y" }}
+        </div>
+
+        <!-- Authors -->
+        <div style="font-size: 0.9em; color: #777; margin-top: 0.2em;">
+          {{ post.excerpt | replace: '**', '<strong>' | replace: '**', '</strong>' }}
+        </div>
+
+        <!-- Download Paper Link -->
+        {% if post.paperurl %}
+          <div style="font-size: 0.9em; margin-top: 0.5em;">
+            <a href="{{ post.paperurl }}" style="text-decoration: none; color: #336699;">Download Paper</a>
+          </div>
+        {% endif %}
+      </li>
+    {% endfor %}
+  </ul>
 {% endif %}
-
-
-
