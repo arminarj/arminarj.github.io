@@ -9,14 +9,14 @@ redirect_from:
 
 About Me
 ======
-Hi, I’m **Mehdi Arjmand**, but I go by **Armin**. I’m a third-year Ph.D. student at [Northeastern University's Khoury College of Computer Sciences](https://www.khoury.northeastern.edu/), where I work in the [Relational Agents Group](https://relationalagents.com/) under the supervision of [Timothy Bickmore](https://www.khoury.northeastern.edu/people/timothy-bickmore/). My academic journey began at the [University of Tehran](https://ece.ut.ac.ir/), where I earned my B.Sc. in Electrical Engineering and conducted research on multimodal machine learning for emotion recognition, guided by [Hadi Moradi](https://ece.ut.ac.ir/en/~moradih) and [Mohammad Javad Dousti](http://ece.ut.ac.ir/en/mjdousti). Additionally, I had the opportunity to intern with the [Affective Computing Lab](https://www.mjdousti.com) at USC’s [Institute for Creative Technologies](https://ict.usc.edu/), working with Prof[Gale Lucas](https://ict.usc.edu/profile/gale-lucas/).
+Hi, I’m **Mehdi Arjmand**, but I go by **Armin**. I’m a third-year Ph.D. student at [Northeastern University's Khoury College of Computer Sciences](https://www.khoury.northeastern.edu/), where I work in the [Relational Agents Group](https://relationalagents.com/) under the supervision of [Timothy Bickmore](https://www.khoury.northeastern.edu/people/timothy-bickmore/). My academic journey began at the [University of Tehran](https://ece.ut.ac.ir/), where I earned my B.Sc. in Electrical Engineering and conducted research on multimodal machine learning for emotion recognition.
 
 **Research Interests**
 
-My research focuses on **conversational agents**, **multimodal interaction**, and **affective computing**. Currently, I’m developing AI agents that leverage large language models (LLMs) and multimodal interaction techniques to provide empathy and achieve conversational grounding, particularly in health-related contexts such as symptom reporting and motivational interviewing. My work is dedicated to advancing human-computer interaction (HCI) by creating agents that are emotionally intelligent and capable of meaningful communication, while fostering trust to enhance the effectiveness and reliability of these interactions.
+My research explores **conversational agents**, **multimodal interaction**, and **affective computing**, with a focus on healthcare applications. I develop AI agents that leverage large language models (LLMs) and multimodal interaction techniques to engage in meaningful and empathetic communication in health-related contexts, such as symptom reporting and motivational interviewing. By incorporating psychological theories, my work aims to design advanced conversational agents that not only assist in healthcare tasks but also deepen our understanding of human multimodal behavior through their interactions.
+
 
 Full **CV** available upon request.
-
 
 
 **News**
