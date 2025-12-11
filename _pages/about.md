@@ -9,7 +9,7 @@ redirect_from:
 
 About Me
 ======
-Hi, I’m **Mehdi Arjmand**, but I go by **Armin**. I’m a third-year Ph.D. student at [Northeastern University's Khoury College of Computer Sciences](https://www.khoury.northeastern.edu/), where I work in the [Relational Agents Group](https://relationalagents.com/) under the supervision of [Timothy Bickmore](https://www.khoury.northeastern.edu/people/timothy-bickmore/). My academic journey began at the [University of Tehran](https://ece.ut.ac.ir/), where I earned my B.Sc. in Electrical Engineering and conducted research on multimodal machine learning for emotion recognition.
+Hi, I’m **Mehdi Arjmand**, but I go by **Armin**. I’m a fourth-year Ph.D. student at [Northeastern University’s Khoury College of Computer Sciences](https://www.khoury.northeastern.edu/), where I work in the [Relational Agents Group](https://relationalagents.com/) under the supervision of [Timothy Bickmore](https://www.khoury.northeastern.edu/people/timothy-bickmore/). Previously, I interned at [USC Institute for Creative Technologies (ICT)](https://ict.usc.edu/) and [Disney Research Imagineering](https://la.disneyresearch.com/), working on persuasive and multimodal interaction for multi-agent systems. My academic journey began at the [University of Tehran](https://ece.ut.ac.ir/), where I earned my B.Sc. in Electrical Engineering and conducted research on multimodal machine learning for emotion recognition.
 
 **Research Interests**
 
@@ -20,6 +20,10 @@ Full **CV** available upon request.
 
 
 **News**
+
+* **[Dec 2025]:** I will start my internship at Apple Inc. as an AIML Intern!
+
+* **[Jun 2025]:** I have started my internship at Disney Research Imagineering, undersupervision of Naveen Kumar, working on Multimodal Interaction for agentic systems.
 
 * **[Nov 2024]:** I received my **MSc degree** in Computer Science  
   Achieved my MSc degree as a significant milestone within my ongoing Ph.D. program at Northeastern University, reflecting progress in my academic and research journey.
